@@ -39,7 +39,7 @@ WJKC_COOKIE=token=xxx
 | `WJKC_TIMEOUT` | 请求超时(ms) | `15000` |
 
 ## 部署到青龙面板
-
+拉取命令 ql raw https://raw.githubusercontent.com/2756826865/wjkc-sign/master/wjkc_sign.js
 ### 1. 添加脚本
 
 将 `wjkc_sign.js` 复制到青龙面板 `/ql/scripts/` 目录。
